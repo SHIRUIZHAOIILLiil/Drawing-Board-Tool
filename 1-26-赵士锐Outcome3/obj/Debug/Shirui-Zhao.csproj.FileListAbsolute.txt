@@ -1,0 +1,15 @@
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\1-26-赵士锐Outcome3.exe.config
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\1-26-赵士锐Outcome3.exe
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\1-26-赵士锐Outcome3.pdb
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\Interop.WMPLib.dll
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\Shirui-Zhao.csprojAssemblyReference.cache
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\Interop.WMPLib.dll
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\Shirui-Zhao.csproj.ResolveComReference.cache
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\_1_26_ZhaoShiruiOutcome3.FrmDrawing_Board.resources
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\_1_26_赵士锐Outcome3.Properties.Resources.resources
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\Shirui-Zhao.csproj.GenerateResource.cache
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\Shirui-Zhao.csproj.CoreCompileInputs.cache
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.exe
+E:\Visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.pdb

@@ -1,0 +1,10 @@
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\1-26-赵士锐Outcome3.exe.config
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\1-26-赵士锐Outcome3.exe
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\bin\Debug\1-26-赵士锐Outcome3.pdb
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.csprojAssemblyReference.cache
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\_1_26_赵士锐Outcome3.Drawing_Board.resources
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\_1_26_赵士锐Outcome3.Properties.Resources.resources
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.csproj.GenerateResource.cache
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.csproj.CoreCompileInputs.cache
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.exe
+D:\visual studio\1-26-赵士锐Outcome3\1-26-赵士锐Outcome3\obj\Debug\1-26-赵士锐Outcome3.pdb
