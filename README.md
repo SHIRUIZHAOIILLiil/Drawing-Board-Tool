@@ -6,7 +6,7 @@ This project showcases an intuitive interface and robust functionality for creat
 
 # Key Features:
 
-Drawing Functionality: Supported freehand drawing, lines, shapes (e.g., rectangles, circles), and text annotations.
+Drawing Functionality: Supported freehand drawing, lines, shapes (e.g., rectangles, circles)
 
 Customizable Options: Integrated color palette, line thickness, and opacity settings to enhance user customization.
 
