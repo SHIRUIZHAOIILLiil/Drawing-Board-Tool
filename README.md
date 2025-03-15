@@ -10,16 +10,14 @@ Drawing Functionality: Supported freehand drawing, lines, shapes (e.g., rectangl
 
 Customizable Options: Integrated color palette, line thickness, and opacity settings to enhance user customization.
 
-Editing Tools: Provided undo/redo capabilities, eraser functionality, and resizing of shapes.
+Editing Tools: Eraser functionality, and resizing of shapes.
 
 File Management: Enabled saving and loading of drawings in various formats (e.g., PNG, JPEG).
 
-User Interface: Designed using Windows Forms (or WPF, if applicable) for a responsive and user-friendly experience.
+User Interface: Designed using Windows Forms for a responsive and user-friendly experience.
 
 # Technologies Used:
 
 C#
 
-.NET Framework (or .NET Core, if applicable)
-
-Windows Forms/WPF (specify what was used for UI development)
+.NET Framework
